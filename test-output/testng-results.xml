@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-15T14:31:03 IST" name="Suite" finished-at="2024-02-15T14:31:09 IST" duration-ms="5854">
+    <groups>
+      <group name="smoke">
+        <method signature="P2Test.a1()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" name="a1" class="com.OrgModule.P2Test"/>
+        <method signature="p1Test.a()[pri:0, instance:com.OrgModule.p1Test@1151e434]" name="a" class="com.OrgModule.p1Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2024-02-15T14:31:03 IST" name="Test" finished-at="2024-02-15T14:31:09 IST" duration-ms="5854">
+      <class name="com.OrgModule.P2Test">
+        <test-method is-config="true" signature="bc()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" started-at="2024-02-15T14:31:03 IST" name="bc" finished-at="2024-02-15T14:31:08 IST" duration-ms="4926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" started-at="2024-02-15T14:31:08 IST" name="bm" finished-at="2024-02-15T14:31:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="a1()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" started-at="2024-02-15T14:31:08 IST" name="a1" finished-at="2024-02-15T14:31:08 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" started-at="2024-02-15T14:31:08 IST" name="am" finished-at="2024-02-15T14:31:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.OrgModule.P2Test@1b11171f]" started-at="2024-02-15T14:31:08 IST" name="ac" finished-at="2024-02-15T14:31:08 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- com.OrgModule.P2Test -->
+      <class name="com.OrgModule.p1Test">
+        <test-method is-config="true" signature="bc()[pri:0, instance:com.OrgModule.p1Test@1151e434]" started-at="2024-02-15T14:31:08 IST" name="bc" finished-at="2024-02-15T14:31:09 IST" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:com.OrgModule.p1Test@1151e434]" started-at="2024-02-15T14:31:09 IST" name="bm" finished-at="2024-02-15T14:31:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="a()[pri:0, instance:com.OrgModule.p1Test@1151e434]" started-at="2024-02-15T14:31:09 IST" name="a" finished-at="2024-02-15T14:31:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method is-config="true" signature="am()[pri:0, instance:com.OrgModule.p1Test@1151e434]" started-at="2024-02-15T14:31:09 IST" name="am" finished-at="2024-02-15T14:31:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.OrgModule.p1Test@1151e434]" started-at="2024-02-15T14:31:09 IST" name="ac" finished-at="2024-02-15T14:31:09 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- com.OrgModule.p1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
